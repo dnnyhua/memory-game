@@ -1,0 +1,25 @@
+
+
+#game div {
+  border: 2px solid black;
+  width: 9rem;
+  height: 200px;
+  margin: 10px;
+  display:  inline-block;
+}
+
+.cardMat {
+  width: 900px;
+  height: 456px;
+  margin: 25px auto;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+#restart {
+  text-align: center;
+  margin: 0 auto;
+}
